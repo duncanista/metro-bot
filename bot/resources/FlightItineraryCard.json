@@ -1,0 +1,121 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0",
+    "type": "AdaptiveCard",
+    "speak": "",
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "Your trip",
+            "weight": "bolder",
+            "isSubtle": false
+        },
+        {
+            "type": "TextBlock",
+            "text": "Shortest path, influx not involved.",
+            "weight": "bolder",
+            "spacing": "medium"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Today @ Microsoft, 15:00",
+            "weight": "bolder",
+            "spacing": "none"
+        },
+        {
+            "type": "ColumnSet",
+            "separator": true,
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": 1,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "Linea 1",
+                            "isSubtle": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "size": "extraLarge",
+                            "color": "accent",
+                            "text": "Insurgentes",
+                            "spacing": "none"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Metro_de_la_Ciudad_de_M%C3%A9xico_logo.svg/1019px-Metro_de_la_Ciudad_de_M%C3%A9xico_logo.svg.png",
+                            "size": "small",
+                            "spacing": "medium"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": 1,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "right",
+                            "text": "Linea 3",
+                            "isSubtle": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "right",
+                            "size": "extraLarge",
+                            "color": "accent",
+                            "text": "Zócalo",
+                            "spacing": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type" : "ColumnSet",
+            "spacing": "medium",
+            "columns": [
+                {}
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "spacing": "medium",
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": "1",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "Number of stations",
+                            "size": "medium",
+                            "isSubtle": true
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": 1,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "right",
+                            "text": "5",
+                            "size": "medium",
+                            "weight": "bolder"
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

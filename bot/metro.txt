@@ -1,0 +1,12 @@
+Observatorio,Tacubaya,Juanacatlán,Chapultepec,Sevilla,Insurgentes,Cuauhtémoc,Balderas,Salto del Agua,Isabel la Católica,Pino Suárez,Merced,Candelaria,San Lázaro,Moctezuma,Balbuena, Boulevard Pto. Aéreo,Gómez Farías,Zaragoza,Pantitlán
+Cuatro Caminos,Panteones,Tacuba,Cuitláhuac,Popotla,Colegio Militar,Normal,San Cosme,Revolución,Hidalgo,Bellas Artes,Allende,Zócalo,Pino Suárez,San Antonio Abad,Chabacano,Viaducto,Xola,Villa de Cortés,Nativitas,Portales,Ermita,General Anaya,Tasqueña
+Indios Verdes,Deportivo 18 de Marzo,Potrero,La Raza,Tlatelolco,Guerrero,Hidalgo,Juárez,Balderas,Niños Héroes,Hospital General,Centro Médico,Etiopía,Eugenia,División del Norte,Zapata,Coyoacán,Viveros,Miguel Ángel de Quevedo,Copilco,Universidad
+Martín Carrera,Talismán,Bondojito,Consulado,Canal del Norte,Morelos,Candelaria,Fray Servando,Jamaica,Santa Anita
+Politécnico,Instituto del Petróleo,Autobuses del Norte,La Raza,Misterios,Valle Gómez,Consulado,Eduardo Molina,Aragón,Oceanía,Terminal Aérea,Hangares,Pantitlán
+El Rosario,Tezozómoc,Azcapotzalco,Ferrería/Arena Ciudad de México,Norte 45,Vallejo,Instituto del Petróleo,Lindavista,Deportivo 18 de Marzo, Martín Carrera
+El Rosario,Aquiles Serdan,Camarones,Refinería,Tacuba,San Joaquín,Polanco,Auditorio,Constituyentes,Tacubaya,Sn. Pedro de los pinos,Sn. Antonio,Mixcoac,Barranca del Muerto
+Garibaldi,Bellas Artes, San Juan de Letrán,Salto del Agua,Doctores,Obrera,Chabacano,La Viga,Santa Anita,Coyuya,Iztacalco,Apatlaco,Aculco,Escuadrón 201,Atlalilco,Iztapalapa,C. de la Estrella,U.A.M.,Const. de 1917
+Tacubaya,Patriotismo,Chilpancingo,Centro Médico,Lázaro Cárdenas,Chabacano,Jamaica,Mixiuhca,Velódromo,Ciudad Deportiva,Puebla,Pantitlán
+Mixcoac,Insurgentes Sur,20 de Noviembre,Zapata,Parque de los Venados,Eje Central,Ermita,Mexicaltzingo,Atlalilco,Pueblo Culhuacán,ESIME Culhuacán,Tomatlán,Calle 11,Periférico Oriente,Tezonco,Olivos,Nopalera,Zapotitlán,Tlaltenco,Tláhuac
+La Paz,Los Reyes,Santa Marta,Acatitla,Peñón Viejo,Guelatao,Tepalcates,Canal de San Juan,Agrícola Oriental,Pantitlán
+Buenavista,Guerrero,Garibaldi,Lagunilla,Tepito,Morelos,San Lázaro,Flores Magón,Romero Rubio,Oceanía,Deportivo Oceanía,Bosque de Aragón,Villa de Aragón,Nezahualcóyotl,Impulsora,Río de los Remedios,Múzquiz,Ecatepec,Olímpica,Plaza Aragón,Ciudad Azteca
